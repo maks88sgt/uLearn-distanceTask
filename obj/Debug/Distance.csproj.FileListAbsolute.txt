@@ -1,0 +1,8 @@
+D:\uLearn\Distance\bin\Debug\Distance.exe.config
+D:\uLearn\Distance\bin\Debug\Distance.exe
+D:\uLearn\Distance\bin\Debug\Distance.pdb
+D:\uLearn\Distance\bin\Debug\TestingRoom.dll
+D:\uLearn\Distance\obj\Debug\Distance.csprojAssemblyReference.cache
+D:\uLearn\Distance\obj\Debug\Distance.csproj.CopyComplete
+D:\uLearn\Distance\obj\Debug\Distance.exe
+D:\uLearn\Distance\obj\Debug\Distance.pdb
